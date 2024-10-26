@@ -5,3 +5,5 @@ Une vidéo de la chaîne Youtube Almobine prétend que les décimales de π sont
 L’approche utilisée consiste à vérifier la spécificité du résultat que produisent les combinaisons exposées dans l’étude de la science almobine.
 Il apparaît que le résultat exposé dans la vidéo n’est absolument pas démonstratif, car à chaque étape, il consiste à choisir parmi un ensemble de nombres qui contient tous les résultats possibles.
 On peut donc conclure que le codage des décimales de π par la science almobine est une pure illusion.
+
+*Le fichier pdf ci-joint présente cette étude de façon plus détaillée.*
